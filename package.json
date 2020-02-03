@@ -1,0 +1,24 @@
+{
+  "name": "formvalidation",
+  "version": "1.0.0",
+  "description": "Form validation library in JavaScript for the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamalroger/FormValidation.js.git"
+  },
+  "keywords": [
+    "Form",
+    "validation",
+    "js"
+  ],
+  "author": "BELHARRADI JAMAL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamalroger/FormValidation.js/issues"
+  },
+  "homepage": "https://github.com/jamalroger/FormValidation.js#readme"
+}
